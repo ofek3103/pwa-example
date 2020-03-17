@@ -1,0 +1,3 @@
+C:\Users\בית\source\repos\PWASampleApp\PWASampleApp\obj\Debug\PWASampleApp.njsprojAssemblyReference.cache
+C:\Users\בית\source\repos\PWASampleApp\PWASampleApp\obj\Debug\PWASampleApp.njsproj.CoreCompileInputs.cache
+C:\Users\בית\source\repos\PWASampleApp\PWASampleApp\bin\Microsoft.NodejsTools.WebRole.dll

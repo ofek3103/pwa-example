@@ -1,0 +1,17 @@
+{
+  "name": "SamplePWAapplication",
+  "short_name": "SamplePWA",
+  "description": "a simple pwa app to test its features",
+  "start_url": "mission_earth/play.html",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "transparent",
+  "icons": [
+    {
+      "src": "images/icons/icon512x512.png",
+      "size": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
